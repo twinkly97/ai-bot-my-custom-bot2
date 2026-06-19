@@ -1,0 +1,1245 @@
+{
+  "nodes": [
+    {
+      "id": "법제처",
+      "label": "법제처",
+      "weight": 20
+    },
+    {
+      "id": "국가법령정보센터",
+      "label": "국가법령정보센터",
+      "weight": 20
+    },
+    {
+      "id": "근로자퇴직급여",
+      "label": "근로자퇴직급여",
+      "weight": 22
+    },
+    {
+      "id": "보장법",
+      "label": "보장법",
+      "weight": 22
+    },
+    {
+      "id": "법은",
+      "label": "법은",
+      "weight": 3
+    },
+    {
+      "id": "근로자",
+      "label": "근로자",
+      "weight": 3
+    },
+    {
+      "id": "퇴직급여제도의",
+      "label": "퇴직급여제도의",
+      "weight": 4
+    },
+    {
+      "id": "설정",
+      "label": "설정",
+      "weight": 15
+    },
+    {
+      "id": "필요한",
+      "label": "필요한",
+      "weight": 4
+    },
+    {
+      "id": "사항을",
+      "label": "사항을",
+      "weight": 4
+    },
+    {
+      "id": "사용하는",
+      "label": "사용하는",
+      "weight": 5
+    },
+    {
+      "id": "같다",
+      "label": "같다",
+      "weight": 3
+    },
+    {
+      "id": "개정",
+      "label": "개정",
+      "weight": 5
+    },
+    {
+      "id": "조제",
+      "label": "조제",
+      "weight": 14
+    },
+    {
+      "id": "항제",
+      "label": "항제",
+      "weight": 3
+    },
+    {
+      "id": "급여",
+      "label": "급여",
+      "weight": 6
+    },
+    {
+      "id": "조에",
+      "label": "조에",
+      "weight": 4
+    },
+    {
+      "id": "따른",
+      "label": "따른",
+      "weight": 11
+    },
+    {
+      "id": "근로자에게",
+      "label": "근로자에게",
+      "weight": 3
+    },
+    {
+      "id": "근로자를",
+      "label": "근로자를",
+      "weight": 4
+    },
+    {
+      "id": "또는",
+      "label": "또는",
+      "weight": 16
+    },
+    {
+      "id": "이하",
+      "label": "이하",
+      "weight": 4
+    },
+    {
+      "id": "한다",
+      "label": "한다",
+      "weight": 4
+    },
+    {
+      "id": "사용자는",
+      "label": "사용자는",
+      "weight": 12
+    },
+    {
+      "id": "위하여",
+      "label": "위하여",
+      "weight": 9
+    },
+    {
+      "id": "하나",
+      "label": "하나",
+      "weight": 3
+    },
+    {
+      "id": "이상의",
+      "label": "이상의",
+      "weight": 6
+    },
+    {
+      "id": "사업의",
+      "label": "사업의",
+      "weight": 5
+    },
+    {
+      "id": "이후",
+      "label": "이후",
+      "weight": 3
+    },
+    {
+      "id": "대한",
+      "label": "대한",
+      "weight": 5
+    },
+    {
+      "id": "퇴직연금제도",
+      "label": "퇴직연금제도",
+      "weight": 4
+    },
+    {
+      "id": "사용자가",
+      "label": "사용자가",
+      "weight": 5
+    },
+    {
+      "id": "대하여",
+      "label": "대하여",
+      "weight": 3
+    },
+    {
+      "id": "확정급여형퇴직연금제도",
+      "label": "확정급여형퇴직연금제도",
+      "weight": 3
+    },
+    {
+      "id": "중소기업퇴직연금기금제도",
+      "label": "중소기업퇴직연금기금제도",
+      "weight": 15
+    },
+    {
+      "id": "설정하려는",
+      "label": "설정하려는",
+      "weight": 4
+    },
+    {
+      "id": "퇴직금의",
+      "label": "퇴직금의",
+      "weight": 3
+    },
+    {
+      "id": "경우에는",
+      "label": "경우에는",
+      "weight": 7
+    },
+    {
+      "id": "날부터",
+      "label": "날부터",
+      "weight": 4
+    },
+    {
+      "id": "퇴직금을",
+      "label": "퇴직금을",
+      "weight": 3
+    },
+    {
+      "id": "법에",
+      "label": "법에",
+      "weight": 3
+    },
+    {
+      "id": "항에",
+      "label": "항에",
+      "weight": 5
+    },
+    {
+      "id": "확정급여형퇴직연금제도의",
+      "label": "확정급여형퇴직연금제도의",
+      "weight": 3
+    },
+    {
+      "id": "확정기여형퇴직연금제도의",
+      "label": "확정기여형퇴직연금제도의",
+      "weight": 3
+    },
+    {
+      "id": "따라",
+      "label": "따라",
+      "weight": 8
+    },
+    {
+      "id": "호에",
+      "label": "호에",
+      "weight": 5
+    },
+    {
+      "id": "퇴직연금제도의",
+      "label": "퇴직연금제도의",
+      "weight": 5
+    },
+    {
+      "id": "호의",
+      "label": "호의",
+      "weight": 18
+    },
+    {
+      "id": "가입자의",
+      "label": "가입자의",
+      "weight": 4
+    },
+    {
+      "id": "설정한",
+      "label": "설정한",
+      "weight": 6
+    },
+    {
+      "id": "다음",
+      "label": "다음",
+      "weight": 23
+    },
+    {
+      "id": "퇴직연금사업자는",
+      "label": "퇴직연금사업자는",
+      "weight": 11
+    },
+    {
+      "id": "매년",
+      "label": "매년",
+      "weight": 4
+    },
+    {
+      "id": "이상",
+      "label": "이상",
+      "weight": 4
+    },
+    {
+      "id": "정하는",
+      "label": "정하는",
+      "weight": 9
+    },
+    {
+      "id": "가입자에게",
+      "label": "가입자에게",
+      "weight": 3
+    },
+    {
+      "id": "조의",
+      "label": "조의",
+      "weight": 23
+    },
+    {
+      "id": "확정기여형퇴직연금제도를",
+      "label": "확정기여형퇴직연금제도를",
+      "weight": 3
+    },
+    {
+      "id": "해당하는",
+      "label": "해당하는",
+      "weight": 12
+    },
+    {
+      "id": "적립금",
+      "label": "적립금",
+      "weight": 3
+    },
+    {
+      "id": "가입자는",
+      "label": "가입자는",
+      "weight": 4
+    },
+    {
+      "id": "적립금의",
+      "label": "적립금의",
+      "weight": 4
+    },
+    {
+      "id": "운영",
+      "label": "운영",
+      "weight": 5
+    },
+    {
+      "id": "대통령령으로",
+      "label": "대통령령으로",
+      "weight": 9
+    },
+    {
+      "id": "퇴직연금사업자가",
+      "label": "퇴직연금사업자가",
+      "weight": 5
+    },
+    {
+      "id": "공단은",
+      "label": "공단은",
+      "weight": 5
+    },
+    {
+      "id": "어느",
+      "label": "어느",
+      "weight": 10
+    },
+    {
+      "id": "하나에",
+      "label": "하나에",
+      "weight": 9
+    },
+    {
+      "id": "경우",
+      "label": "경우",
+      "weight": 4
+    },
+    {
+      "id": "관한",
+      "label": "관한",
+      "weight": 4
+    },
+    {
+      "id": "책무",
+      "label": "책무",
+      "weight": 5
+    },
+    {
+      "id": "감독",
+      "label": "감독",
+      "weight": 4
+    },
+    {
+      "id": "고용노동부장관은",
+      "label": "고용노동부장관은",
+      "weight": 8
+    },
+    {
+      "id": "자는",
+      "label": "자는",
+      "weight": 7
+    },
+    {
+      "id": "사용자",
+      "label": "사용자",
+      "weight": 4
+    },
+    {
+      "id": "벌칙",
+      "label": "벌칙",
+      "weight": 7
+    },
+    {
+      "id": "이하의",
+      "label": "이하의",
+      "weight": 7
+    },
+    {
+      "id": "징역",
+      "label": "징역",
+      "weight": 5
+    },
+    {
+      "id": "천만원",
+      "label": "천만원",
+      "weight": 6
+    },
+    {
+      "id": "벌금에",
+      "label": "벌금에",
+      "weight": 6
+    }
+  ],
+  "edges": [
+    {
+      "source": "근로자퇴직급여",
+      "target": "보장법",
+      "weight": 22
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "법제처",
+      "weight": 20
+    },
+    {
+      "source": "근로자퇴직급여",
+      "target": "법제처",
+      "weight": 20
+    },
+    {
+      "source": "법제처",
+      "target": "보장법",
+      "weight": 20
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "근로자퇴직급여",
+      "weight": 20
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "보장법",
+      "weight": 20
+    },
+    {
+      "source": "다음",
+      "target": "호의",
+      "weight": 16
+    },
+    {
+      "source": "조의",
+      "target": "중소기업퇴직연금기금제도",
+      "weight": 13
+    },
+    {
+      "source": "다음",
+      "target": "해당하는",
+      "weight": 10
+    },
+    {
+      "source": "다음",
+      "target": "어느",
+      "weight": 10
+    },
+    {
+      "source": "어느",
+      "target": "호의",
+      "weight": 10
+    },
+    {
+      "source": "다음",
+      "target": "하나에",
+      "weight": 9
+    },
+    {
+      "source": "하나에",
+      "target": "호의",
+      "weight": 9
+    },
+    {
+      "source": "해당하는",
+      "target": "호의",
+      "weight": 9
+    },
+    {
+      "source": "어느",
+      "target": "하나에",
+      "weight": 9
+    },
+    {
+      "source": "어느",
+      "target": "해당하는",
+      "weight": 9
+    },
+    {
+      "source": "하나에",
+      "target": "해당하는",
+      "weight": 9
+    },
+    {
+      "source": "다음",
+      "target": "조의",
+      "weight": 8
+    },
+    {
+      "source": "대통령령으로",
+      "target": "정하는",
+      "weight": 8
+    },
+    {
+      "source": "다음",
+      "target": "또는",
+      "weight": 6
+    },
+    {
+      "source": "다음",
+      "target": "퇴직연금사업자는",
+      "weight": 6
+    },
+    {
+      "source": "다음",
+      "target": "자는",
+      "weight": 6
+    },
+    {
+      "source": "자는",
+      "target": "호의",
+      "weight": 6
+    },
+    {
+      "source": "어느",
+      "target": "자는",
+      "weight": 6
+    },
+    {
+      "source": "자는",
+      "target": "하나에",
+      "weight": 6
+    },
+    {
+      "source": "자는",
+      "target": "해당하는",
+      "weight": 6
+    },
+    {
+      "source": "또는",
+      "target": "호의",
+      "weight": 6
+    },
+    {
+      "source": "벌칙",
+      "target": "자는",
+      "weight": 6
+    },
+    {
+      "source": "벌칙",
+      "target": "이하의",
+      "weight": 6
+    },
+    {
+      "source": "벌금에",
+      "target": "벌칙",
+      "weight": 6
+    },
+    {
+      "source": "이하의",
+      "target": "자는",
+      "weight": 6
+    },
+    {
+      "source": "벌금에",
+      "target": "자는",
+      "weight": 6
+    },
+    {
+      "source": "이하의",
+      "target": "천만원",
+      "weight": 6
+    },
+    {
+      "source": "벌금에",
+      "target": "이하의",
+      "weight": 6
+    },
+    {
+      "source": "다음",
+      "target": "이하의",
+      "weight": 6
+    },
+    {
+      "source": "이하의",
+      "target": "호의",
+      "weight": 6
+    },
+    {
+      "source": "어느",
+      "target": "이하의",
+      "weight": 6
+    },
+    {
+      "source": "이하의",
+      "target": "하나에",
+      "weight": 6
+    },
+    {
+      "source": "이하의",
+      "target": "해당하는",
+      "weight": 6
+    },
+    {
+      "source": "사용자는",
+      "target": "설정",
+      "weight": 5
+    },
+    {
+      "source": "설정",
+      "target": "이상의",
+      "weight": 5
+    },
+    {
+      "source": "공단은",
+      "target": "조의",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "징역",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "벌칙",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "자는",
+      "target": "징역",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "자는",
+      "weight": 5
+    },
+    {
+      "source": "자는",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "이하의",
+      "target": "징역",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "이하의",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "징역",
+      "weight": 5
+    },
+    {
+      "source": "징역",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "징역",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "또는",
+      "target": "벌금에",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "다음",
+      "target": "벌칙",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "호의",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "어느",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "하나에",
+      "weight": 5
+    },
+    {
+      "source": "벌칙",
+      "target": "해당하는",
+      "weight": 5
+    },
+    {
+      "source": "다음",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "다음",
+      "target": "벌금에",
+      "weight": 5
+    },
+    {
+      "source": "천만원",
+      "target": "호의",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "호의",
+      "weight": 5
+    },
+    {
+      "source": "어느",
+      "target": "천만원",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "어느",
+      "weight": 5
+    },
+    {
+      "source": "천만원",
+      "target": "하나에",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "하나에",
+      "weight": 5
+    },
+    {
+      "source": "천만원",
+      "target": "해당하는",
+      "weight": 5
+    },
+    {
+      "source": "벌금에",
+      "target": "해당하는",
+      "weight": 5
+    },
+    {
+      "source": "따른",
+      "target": "법제처",
+      "weight": 4
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "따른",
+      "weight": 4
+    },
+    {
+      "source": "근로자퇴직급여",
+      "target": "따른",
+      "weight": 4
+    },
+    {
+      "source": "따른",
+      "target": "보장법",
+      "weight": 4
+    },
+    {
+      "source": "따른",
+      "target": "조제",
+      "weight": 4
+    },
+    {
+      "source": "설정",
+      "target": "조제",
+      "weight": 4
+    },
+    {
+      "source": "또는",
+      "target": "사용자는",
+      "weight": 4
+    },
+    {
+      "source": "또는",
+      "target": "조제",
+      "weight": 4
+    },
+    {
+      "source": "사용자는",
+      "target": "설정한",
+      "weight": 4
+    },
+    {
+      "source": "다음",
+      "target": "호에",
+      "weight": 4
+    },
+    {
+      "source": "따라",
+      "target": "정하는",
+      "weight": 4
+    },
+    {
+      "source": "설정",
+      "target": "조의",
+      "weight": 4
+    },
+    {
+      "source": "조의",
+      "target": "호의",
+      "weight": 4
+    },
+    {
+      "source": "퇴직연금사업자는",
+      "target": "호의",
+      "weight": 4
+    },
+    {
+      "source": "법제처",
+      "target": "퇴직연금사업자는",
+      "weight": 4
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "퇴직연금사업자는",
+      "weight": 4
+    },
+    {
+      "source": "근로자퇴직급여",
+      "target": "퇴직연금사업자는",
+      "weight": 4
+    },
+    {
+      "source": "보장법",
+      "target": "퇴직연금사업자는",
+      "weight": 4
+    },
+    {
+      "source": "위하여",
+      "target": "조의",
+      "weight": 4
+    },
+    {
+      "source": "대통령령으로",
+      "target": "조의",
+      "weight": 4
+    },
+    {
+      "source": "정하는",
+      "target": "조의",
+      "weight": 4
+    },
+    {
+      "source": "다음",
+      "target": "중소기업퇴직연금기금제도",
+      "weight": 4
+    },
+    {
+      "source": "다음",
+      "target": "징역",
+      "weight": 4
+    },
+    {
+      "source": "징역",
+      "target": "호의",
+      "weight": 4
+    },
+    {
+      "source": "어느",
+      "target": "징역",
+      "weight": 4
+    },
+    {
+      "source": "또는",
+      "target": "어느",
+      "weight": 4
+    },
+    {
+      "source": "징역",
+      "target": "하나에",
+      "weight": 4
+    },
+    {
+      "source": "또는",
+      "target": "하나에",
+      "weight": 4
+    },
+    {
+      "source": "징역",
+      "target": "해당하는",
+      "weight": 4
+    },
+    {
+      "source": "또는",
+      "target": "해당하는",
+      "weight": 4
+    },
+    {
+      "source": "설정",
+      "target": "퇴직급여제도의",
+      "weight": 3
+    },
+    {
+      "source": "사용하는",
+      "target": "조제",
+      "weight": 3
+    },
+    {
+      "source": "개정",
+      "target": "조제",
+      "weight": 3
+    },
+    {
+      "source": "조제",
+      "target": "항제",
+      "weight": 3
+    },
+    {
+      "source": "급여",
+      "target": "따른",
+      "weight": 3
+    },
+    {
+      "source": "따른",
+      "target": "조에",
+      "weight": 3
+    },
+    {
+      "source": "근로자를",
+      "target": "사용하는",
+      "weight": 3
+    },
+    {
+      "source": "사용자는",
+      "target": "위하여",
+      "weight": 3
+    },
+    {
+      "source": "근로자퇴직급여",
+      "target": "사업의",
+      "weight": 3
+    },
+    {
+      "source": "보장법",
+      "target": "사업의",
+      "weight": 3
+    },
+    {
+      "source": "사용자가",
+      "target": "설정",
+      "weight": 3
+    },
+    {
+      "source": "설정",
+      "target": "설정하려는",
+      "weight": 3
+    },
+    {
+      "source": "사용자는",
+      "target": "설정하려는",
+      "weight": 3
+    },
+    {
+      "source": "퇴직금을",
+      "target": "퇴직금의",
+      "weight": 3
+    },
+    {
+      "source": "따른",
+      "target": "법에",
+      "weight": 3
+    },
+    {
+      "source": "따른",
+      "target": "항에",
+      "weight": 3
+    },
+    {
+      "source": "조제",
+      "target": "항에",
+      "weight": 3
+    },
+    {
+      "source": "또는",
+      "target": "설정",
+      "weight": 3
+    },
+    {
+      "source": "또는",
+      "target": "설정하려는",
+      "weight": 3
+    },
+    {
+      "source": "급여",
+      "target": "다음",
+      "weight": 3
+    },
+    {
+      "source": "다음",
+      "target": "설정한",
+      "weight": 3
+    },
+    {
+      "source": "다음",
+      "target": "위하여",
+      "weight": 3
+    },
+    {
+      "source": "매년",
+      "target": "이상",
+      "weight": 3
+    },
+    {
+      "source": "법제처",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "국가법령정보센터",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "근로자퇴직급여",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "보장법",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "사업의",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "사용자는",
+      "target": "확정기여형퇴직연금제도를",
+      "weight": 3
+    },
+    {
+      "source": "다음",
+      "target": "설정",
+      "weight": 3
+    },
+    {
+      "source": "운영",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "경우에는",
+      "target": "퇴직연금사업자가",
+      "weight": 3
+    },
+    {
+      "source": "사항을",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "공단은",
+      "target": "대통령령으로",
+      "weight": 3
+    },
+    {
+      "source": "공단은",
+      "target": "정하는",
+      "weight": 3
+    },
+    {
+      "source": "대통령령으로",
+      "target": "위하여",
+      "weight": 3
+    },
+    {
+      "source": "설정",
+      "target": "중소기업퇴직연금기금제도",
+      "weight": 3
+    },
+    {
+      "source": "설정",
+      "target": "해당하는",
+      "weight": 3
+    },
+    {
+      "source": "경우",
+      "target": "조의",
+      "weight": 3
+    },
+    {
+      "source": "경우",
+      "target": "중소기업퇴직연금기금제도",
+      "weight": 3
+    },
+    {
+      "source": "감독",
+      "target": "고용노동부장관은",
+      "weight": 3
+    },
+    {
+      "source": "고용노동부장관은",
+      "target": "대한",
+      "weight": 3
+    },
+    {
+      "source": "경우에는",
+      "target": "고용노동부장관은",
+      "weight": 3
+    },
+    {
+      "source": "대통령령으로",
+      "target": "따라",
+      "weight": 3
+    },
+    {
+      "source": "개정",
+      "target": "이하의",
+      "weight": 3
+    },
+    {
+      "source": "같다",
+      "target": "사용하는",
+      "weight": 2
+    },
+    {
+      "source": "개정",
+      "target": "사용하는",
+      "weight": 2
+    },
+    {
+      "source": "근로자",
+      "target": "사용하는",
+      "weight": 2
+    },
+    {
+      "source": "사용하는",
+      "target": "항제",
+      "weight": 2
+    }
+  ],
+  "communities": [
+    [
+      "같다",
+      "개정",
+      "국가법령정보센터",
+      "근로자",
+      "근로자를",
+      "근로자퇴직급여",
+      "따른",
+      "법에",
+      "법제처",
+      "보장법",
+      "사업의",
+      "사용하는",
+      "조에",
+      "조제",
+      "퇴직연금사업자는",
+      "항에",
+      "항제"
+    ],
+    [
+      "경우",
+      "공단은",
+      "대통령령으로",
+      "따라",
+      "사용자가",
+      "사항을",
+      "설정",
+      "운영",
+      "위하여",
+      "이상의",
+      "정하는",
+      "조의",
+      "중소기업퇴직연금기금제도",
+      "퇴직급여제도의"
+    ],
+    [
+      "급여",
+      "다음",
+      "벌금에",
+      "벌칙",
+      "어느",
+      "이하의",
+      "자는",
+      "징역",
+      "천만원",
+      "하나에",
+      "해당하는",
+      "호에",
+      "호의"
+    ],
+    [
+      "또는",
+      "사용자는",
+      "설정하려는",
+      "설정한",
+      "확정기여형퇴직연금제도를"
+    ],
+    [
+      "감독",
+      "경우에는",
+      "고용노동부장관은",
+      "대한",
+      "퇴직연금사업자가"
+    ],
+    [
+      "퇴직금을",
+      "퇴직금의"
+    ],
+    [
+      "매년",
+      "이상"
+    ],
+    [
+      "대하여"
+    ],
+    [
+      "이하"
+    ],
+    [
+      "적립금의"
+    ],
+    [
+      "확정기여형퇴직연금제도의"
+    ],
+    [
+      "근로자에게"
+    ]
+  ]
+}
